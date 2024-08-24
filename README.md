@@ -4,8 +4,4 @@
 # The inputs will stored in variables 'city' and 'pet'
 # The program will then combine the two inputs to generate a band name.
 
-print("Hi there, Welcome to the Band Name Generator")
-city = input("What is the name of the city you grew up in?\n")
-pet = input("What is the name of your pet?\n")
-print("Your band name could be " "The " + city + " " + pet)
-print("Exiting the program now! Goodbye!")
+
